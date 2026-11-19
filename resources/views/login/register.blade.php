@@ -18,8 +18,8 @@
         <div class="auth-card">
 
             <div class="logo">
-                <div class="logo-icon">D</div>
-                <h1>Data-Con's</h1>
+                <div class="logo-icon">G</div>
+                <h1>GIZZAM</h1>
                 <p>Computer Accessories Store</p>
             </div>
 
